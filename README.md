@@ -15,12 +15,15 @@ This is a responsive website for the TBC Concept project. It features a responsi
 - CSS
 - JavaScript
 
+## Installation
+
+To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-username/my-website.git
-cd my-website
-open index.html
+   cd my-website
+   open index.html
 
 If you have any questions, feel free to reach out:
 
