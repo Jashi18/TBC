@@ -15,6 +15,13 @@ This is a responsive website for the TBC Concept project. It features a responsi
 - CSS
 - JavaScript
 
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/my-website.git
+cd my-website
+open index.html
+
 If you have any questions, feel free to reach out:
 
 Email: Iraklijashi0@gmail.com
